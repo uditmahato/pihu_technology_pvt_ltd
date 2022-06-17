@@ -561,8 +561,8 @@
         /**---------------------------------------
          *  file upload
          * -------------------------------------*/
-        if ($('.rhombus-file-input').length) {
-            $(".rhombus-file-input").on("change", function() {
+        if ($('.pihutech-file-input').length) {
+            $(".pihutech-file-input").on("change", function() {
                 var fileName = $(this).val().split("\\").pop();
                 $(this).siblings(".custom-file-label").addClass("selected").html(fileName);
             });
@@ -668,7 +668,7 @@
     /* -------------------------------------------------------------
             Image Gallery Popup
     ------------------------------------------------------------- */
-    function rhombus_image_popup(selector) {
+    function pihutech_image_popup(selector) {
         if ($(selector).length) {
             $(selector).magnificPopup({
                 delegate: 'a',
@@ -687,7 +687,7 @@
         }
     }
     /* ------- Gallery image Popup--------- */
-    rhombus_image_popup('.gallery-masonry .masonry-item');
+    pihutech_image_popup('.gallery-masonry .masonry-item');
 
 
     /* -------------------------------------------------------------
