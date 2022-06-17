@@ -1,5 +1,5 @@
 /*
-Theme Name: Rhombus IT Solutions
+Theme Name: pihutech IT Solutions
 Author: Ds Company
 */
 
@@ -1086,12 +1086,14 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     padding: 194px 0 114px;
     background-size: cover;
 }
-.breadcrumb-area-2{
+
+.breadcrumb-area-2 {
     background-position: 100% 100%;
     height: 65vh;
     padding: 175px 0 114px;
 }
-.breadcrumb-area-2 .page-title{
+
+.breadcrumb-area-2 .page-title {
     color: #fff !important;
 }
 
@@ -3660,16 +3662,16 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     box-shadow: 0px 12px 18px #F9556D4D;
 }
 
-.rhombus-pagination ul {
+.pihutech-pagination ul {
     padding-left: 0;
     margin-bottom: 0;
 }
 
-.rhombus-pagination ul li {
+.pihutech-pagination ul li {
     display: inline-block;
 }
 
-.rhombus-pagination ul li .page-numbers {
+.pihutech-pagination ul li .page-numbers {
     width: 36px;
     height: 36px;
     border: 1px solid #97A1B3;
@@ -3688,20 +3690,20 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     margin: 0 3px;
 }
 
-.rhombus-pagination ul li .page-numbers.prev,
-.rhombus-pagination ul li .page-numbers.next {
+.pihutech-pagination ul li .page-numbers.prev,
+.pihutech-pagination ul li .page-numbers.next {
     border: none;
 }
 
-.rhombus-pagination ul li .page-numbers:hover,
-.rhombus-pagination ul li .page-numbers.current {
+.pihutech-pagination ul li .page-numbers:hover,
+.pihutech-pagination ul li .page-numbers.current {
     background: #01358D;
     color: #fff;
     border: 1px solid #01358D;
 }
 
-.rhombus-pagination ul li .page-numbers.prev:hover,
-.rhombus-pagination ul li .page-numbers.next:hover {
+.pihutech-pagination ul li .page-numbers.prev:hover,
+.pihutech-pagination ul li .page-numbers.next:hover {
     background: none;
     color: #01358D;
     border: none;
@@ -4740,7 +4742,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     z-index: -1;
 }
 
-.sbs-what-rhombus {
+.sbs-what-pihutech {
     background-repeat: no-repeat;
     background-size: 48% 100%;
 }
@@ -4874,7 +4876,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
 
 /********** home 6 ********/
 
-.rhombus-check-bg {
+.pihutech-check-bg {
     position: absolute;
     z-index: -1;
     margin-top: -80px;
@@ -4882,7 +4884,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     margin-left: -150px;
 }
 
-.rhombus-check-bg2 {
+.pihutech-check-bg2 {
     position: absolute;
     z-index: -1;
     margin-top: -199px;
@@ -4971,7 +4973,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     margin-bottom: 10px;
 }
 
-.comment-form-area .rhombus-form-wrap .btn {
+.comment-form-area .pihutech-form-wrap .btn {
     padding: 0 30px;
 }
 
@@ -5516,48 +5518,48 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     box-shadow: 0px 2px 69px #97A1B238;
 }
 
-.login-register-popup .rhombus-form-wrap {
+.login-register-popup .pihutech-form-wrap {
     display: block;
     width: 100%;
     padding: 0 55px;
 }
 
-.login-register-popup .rhombus-form-wrap .single-input-wrap label {
+.login-register-popup .pihutech-form-wrap .single-input-wrap label {
     line-height: unset;
 }
 
-.login-register-popup .rhombus-form-wrap .widget-title {
+.login-register-popup .pihutech-form-wrap .widget-title {
     font-size: 20px;
 }
 
-.login-register-popup .rhombus-form-wrap span,
-.login-register-popup .rhombus-form-wrap label {
+.login-register-popup .pihutech-form-wrap span,
+.login-register-popup .pihutech-form-wrap label {
     font-size: 12px;
     color: #97A1B3;
     letter-spacing: 0.24px;
 }
 
-.login-register-popup .rhombus-form-wrap .check-box-area {
+.login-register-popup .pihutech-form-wrap .check-box-area {
     overflow: hidden;
 }
 
-.login-register-popup .rhombus-form-wrap .check-box-area input {
+.login-register-popup .pihutech-form-wrap .check-box-area input {
     margin-right: 5px;
     float: left;
 }
 
-.login-register-popup .rhombus-form-wrap .check-box-area label {
+.login-register-popup .pihutech-form-wrap .check-box-area label {
     margin-bottom: 0;
     margin-top: -3px;
     float: left;
 }
 
-.login-register-popup .rhombus-form-wrap .btn-wrap {
+.login-register-popup .pihutech-form-wrap .btn-wrap {
     line-height: 41px;
     margin-top: 30px;
 }
 
-.login-register-popup .rhombus-form-wrap .btn-wrap .btn {
+.login-register-popup .pihutech-form-wrap .btn-wrap .btn {
     height: 40px;
     line-height: 41px;
     padding: 0 30px;
@@ -5566,7 +5568,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     margin-right: 15px;
 }
 
-.login-register-popup .rhombus-form-wrap .btn-wrap a.signup {
+.login-register-popup .pihutech-form-wrap .btn-wrap a.signup {
     color: #01358D;
     font-size: 12px;
     border-bottom: 1px solid #01358D;
@@ -6018,15 +6020,15 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     max-width: 80%;
 }
 
-.rhombus-check-list {
+.pihutech-check-list {
     margin-bottom: 25px;
 }
 
-.rhombus-check-list img {
+.pihutech-check-list img {
     margin-right: 18px;
 }
 
-.rhombus-check-list span {
+.pihutech-check-list span {
     letter-spacing: 0.34px;
     color: #5B6880;
     font-size: 17px;
@@ -6167,28 +6169,28 @@ ul.wp-block-latest-posts.is-grid.alignwide {
   ## list
 ----------------------------------------*/
 
-.rhombus-check-list {
+.pihutech-check-list {
     margin-bottom: 20px;
 }
 
-.rhombus-check-list img {
+.pihutech-check-list img {
     margin-right: 17px;
 }
 
-.rhombus-check-list span {
+.pihutech-check-list span {
     letter-spacing: 0.34px;
     color: #5B6880;
     font-size: var(--body-font-size);
     line-height: 24px;
 }
 
-.rhombus-check-list.style-two {
+.pihutech-check-list.style-two {
     margin-bottom: 3px;
     list-style: none;
     position: relative;
 }
 
-.rhombus-check-list.style-two:after {
+.pihutech-check-list.style-two:after {
     content: '';
     position: absolute;
     height: 6px;
@@ -6246,11 +6248,11 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     display: none;
 }
 
-.rhombus-list-2 {
+.pihutech-list-2 {
     padding-left: 0 !important;
 }
 
-.rhombus-list-2 li {
+.pihutech-list-2 li {
     -webkit-box-shadow: 0px 5px 22px #01358D2E;
     box-shadow: 0px 5px 22px #01358D2E;
     height: 100px;
@@ -6267,35 +6269,35 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     transition: all 0.3s ease-in;
 }
 
-.rhombus-list-2 li img {
+.pihutech-list-2 li img {
     -webkit-transition: 0.8s;
     -o-transition: 0.8s;
     transition: 0.8s;
 }
 
-.rhombus-list-2 li:first-child {
+.pihutech-list-2 li:first-child {
     margin-left: 0;
 }
 
-.rhombus-list-2 li:last-child {
+.pihutech-list-2 li:last-child {
     margin-right: 0;
 }
 
-.rhombus-list-2 li:hover {
+.pihutech-list-2 li:hover {
     -webkit-box-shadow: 0px 10px 22px #01358D2E;
     box-shadow: 0px 10px 22px #01358D2E;
 }
 
-.rhombus-list-2 li:hover img {
+.pihutech-list-2 li:hover img {
     -webkit-transform: rotateY(180deg);
     transform: rotateY(180deg);
 }
 
-.rhombus-list-3 {
+.pihutech-list-3 {
     padding-left: 0 !important;
 }
 
-.rhombus-list-3 li {
+.pihutech-list-3 li {
     list-style: none;
     position: relative;
     font-size: var(--body-font-size);
@@ -6306,7 +6308,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     margin-bottom: 5px;
 }
 
-.rhombus-list-3 li:before {
+.pihutech-list-3 li:before {
     content: '';
     position: absolute;
     left: 0;
@@ -6318,11 +6320,11 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     background: #fff;
 }
 
-.rhombus-check-list-wrap .rhombus-check-list {
+.pihutech-check-list-wrap .pihutech-check-list {
     margin-bottom: 10px;
 }
 
-.rhombus-check-list-wrap .rhombus-check-list img {
+.pihutech-check-list-wrap .pihutech-check-list img {
     margin-top: 6px;
 }
 
@@ -6423,11 +6425,11 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     right: -15px;
 }
 
-.rhombus-stab .nav-tabs .nav-item:last-child .nav-link {
+.pihutech-stab .nav-tabs .nav-item:last-child .nav-link {
     margin-right: 0;
 }
 
-.rhombus-stab .nav-tabs .nav-link {
+.pihutech-stab .nav-tabs .nav-link {
     border: 0 !important;
     background: transparent;
     font-size: 18px;
@@ -6439,13 +6441,13 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     margin: 0 50px 0 10px;
 }
 
-.rhombus-stab .nav-tabs .nav-link:hover,
-.rhombus-stab .nav-tabs .nav-link.active {
+.pihutech-stab .nav-tabs .nav-link:hover,
+.pihutech-stab .nav-tabs .nav-link.active {
     color: var(--main-color-one);
 }
 
-.rhombus-stab .nav-tabs .nav-link:hover:after,
-.rhombus-stab .nav-tabs .nav-link.active:after {
+.pihutech-stab .nav-tabs .nav-link:hover:after,
+.pihutech-stab .nav-tabs .nav-link.active:after {
     visibility: visible;
     opacity: 1;
     -webkit-transition: 0.3s;
@@ -6453,7 +6455,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     transition: 0.3s;
 }
 
-.rhombus-stab .nav-tabs .nav-link:after {
+.pihutech-stab .nav-tabs .nav-link:after {
     content: '';
     position: absolute;
     left: 0;
@@ -6468,7 +6470,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     transition: 0.3s;
 }
 
-.rhombus-stab .rhombus-stab-content {
+.pihutech-stab .pihutech-stab-content {
     padding: 35px 0;
 }
 
@@ -8704,7 +8706,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     ## All form
 ------------------------------------------*/
 
-.rhombus-form-wrap .btn {
+.pihutech-form-wrap .btn {
     height: 48px;
     line-height: 48px;
     padding: 0 60px;
@@ -8824,19 +8826,19 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     padding: 0 1px;
 }
 
-.rhombus-file-input-wrap {
+.pihutech-file-input-wrap {
     margin-top: 10px;
     height: 100%;
 }
 
-.rhombus-file-input-wrap .rhombus-file-input {
+.pihutech-file-input-wrap .pihutech-file-input {
     cursor: pointer;
     height: 60px;
     line-height: 60px;
     width: 100%;
 }
 
-.rhombus-file-input-wrap label {
+.pihutech-file-input-wrap label {
     cursor: pointer;
     border: 0;
     color: #fff;
@@ -8849,7 +8851,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     cursor: cell;
 }
 
-.rhombus-file-input-wrap label:after {
+.pihutech-file-input-wrap label:after {
     display: none !important;
 }
 
@@ -9067,7 +9069,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
     display: none;
 }
 
-.logo-rhombus{
+.logo-pihutech {
     position: absolute;
     left: 10px;
     top: 10px;
